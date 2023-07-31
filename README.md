@@ -9,7 +9,7 @@ Welcome to my GitHub profile! This is where I share my passion for coding and sh
 </p>
 
 <p align="center">
-I love to explore new technologies and continuously learn and grow in the world of software development. 🌱 </p>
+I love to explore new technologies and continuously learn and grow in the ever-evolving world of software development. 🌱 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annatas77&show_icons=true&theme=nightowl" alt="Anna's GitHub Stats" />
