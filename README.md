@@ -30,7 +30,7 @@ I love to explore new technologies and continuously learn and grow in the ever-e
 <!-- My Stats -->
 <h2 align='center'>:fire: My Stats </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annatas77&show_icons=true&theme=nightowl" alt="Anna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=annatas77&show_icons=true&rank_icon=github&theme=nightowl" alt="Anna's GitHub Stats" />
 </p>
 
 <p align="center">
