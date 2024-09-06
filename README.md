@@ -5,7 +5,7 @@
 </div>
 <h1 align="center">Hello world! 👋 I'm Anna Tasheva.</h1>
 <p align="center">
-  <strong>Junior Software Developer</strong>  |  <strong>Passionate Coder</strong>  |  <strong>Career Changer</strong>
+  <strong>Junior Software Developer</strong>  |  <strong>Sustainability Enthusiast</strong>  |  <strong>Career Changer</strong>
 </p>
 
 <p align="center">
